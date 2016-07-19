@@ -27,7 +27,7 @@ Add an ADO.Net Entity Data Model to the web application
 
  * Your choice of Database-first or Code-first
  
-Employing the LocalDB instance where your database resides, this model should expose the Database1 user account table and provide all of the projects database management needs through Linq-To-Entities.
+Employing the LocalDB instance where your database resides, this model should expose the Database1 user account table and provide all of the project's database management needs using Linq-To-Entities.
 
 Overall implementation should minimally ensure the following policies
 ---------------------------------------------------------------------
